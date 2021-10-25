@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\prog03.exe
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\prog03.deps.json
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\prog03.runtimeconfig.json
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\prog03.dll
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\ref\prog03.dll
+C:\Users\User\Desktop\семинар 25.10.21\prog03\bin\Debug\net6.0\prog03.pdb
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.GlobalUsings.g.cs
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.AssemblyInfo.cs
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.dll
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\ref\prog03.dll
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.pdb
+C:\Users\User\Desktop\семинар 25.10.21\prog03\obj\Debug\net6.0\prog03.genruntimeconfig.cache
